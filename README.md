@@ -17,7 +17,7 @@ As I progress on my data science journey, I am dedicated to continuously learnin
 ## Project Folders
 
 ### 1. Excel Projects
-- [Project 1: Monthly Expense Tracker](excel_projects/project_1/README.md)
+- [Project 1: Monthly Expense Tracker](https://github.com/Tallaneeraj/Data-Science-Portfolio/blob/main/Monthly%20Expense%20Tracker/README.md)
   - This beginner-level Expense Tracking Excel Sheet serves as a test of my Excel skills. It includes features such as categorized expense recording, monthly overviews, and budget planning, making it an ideal starting point for those new to financial management. Feel free to contribute or provide suggestions!
 
 

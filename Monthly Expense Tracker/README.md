@@ -17,7 +17,7 @@ This repository contains an Excel sheet for tracking expenses, designed to help 
 ## Getting Started
 
 1. **Download the Excel Sheet:**
-   - Clone the repository or download the Excel file directly from [here]().
+   - Clone the repository or download the Excel file directly from [here](https://github.com/Tallaneeraj/Data-Science-Portfolio/blob/main/Monthly%20Expense%20Tracker/Monthly%20Expenses%20Tracker.xlsx).
   
 2. **Open the Excel Sheet:**
    - Open the spreadsheet using Microsoft Excel or any compatible software.

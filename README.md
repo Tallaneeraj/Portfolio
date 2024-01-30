@@ -20,6 +20,11 @@ As I progress on my data science journey, I am dedicated to continuously learnin
 - [Project 1: Monthly Expense Tracker](https://github.com/Tallaneeraj/Data-Science-Portfolio/blob/main/Monthly%20Expense%20Tracker/README.md)
   - This beginner-level Expense Tracking Excel Sheet serves as a test of my Excel skills. It includes features such as categorized expense recording, monthly overviews, and budget planning, making it an ideal starting point for those new to financial management. Feel free to contribute or provide suggestions!
 
+### 2. Sales Analysis Project
+- [Project 2: Chocolate Sales Analysis](https://github.com/Tallaneeraj/Data-Science-Portfolio/tree/main/Sales%20Data%20Analysis%20-%20Chocolate%20Sales)
+  - Comprehensive data analysis of chocolate sales, exploring various aspects such as quick statistics, exploratory data analysis, sales by country, top products, anomaly detection, and more. Data sourced from [this YouTube video](https://youtu.be/v2oNWja7M2E?feature=shared) for demonstration purposes.
+
+
 
 ## Getting Started
 

@@ -24,7 +24,9 @@ As I progress on my data science journey, I am dedicated to continuously learnin
 - [Project 2: Chocolate Sales Analysis](https://github.com/Tallaneeraj/Data-Science-Portfolio/tree/main/Sales%20Data%20Analysis%20-%20Chocolate%20Sales)
   - Comprehensive data analysis of chocolate sales, exploring various aspects such as quick statistics, exploratory data analysis, sales by country, top products, anomaly detection, and more. Data sourced from [this YouTube video](https://youtu.be/v2oNWja7M2E?feature=shared) for demonstration purposes.
 
-
+### 3. DinoFunWorld Operations Analysis
+-[Project 3: DinoFunWorld Data Analysis and Visualization](https://github.com/Tallaneeraj/Data-Science-Portfolio/tree/main/Dino%20World%20Data%20Analysis)
+  -This repository contains a data analysis of operations at DinoFunWorld Amusement Park, providing insights into visitor patterns, attraction popularity, and attendance dynamics. Utilizing a provided SQLite database, the analysis highlights key aspects of park operations to aid in strategic decision-making.
 
 ## Getting Started
 

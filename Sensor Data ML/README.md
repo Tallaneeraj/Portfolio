@@ -16,3 +16,15 @@ code/: Contains source code for data preprocessing, anomaly detection, and predi
 data/: Includes the dataset used in the project and any intermediate data files.
 reports/: Contains the project report detailing methodology, algorithms, results, and conclusions.
 visualizations/: Includes visualizations generated during data analysis and model evaluation.
+
+
+### Contributors
+Neeraj Talla
+Varshith Dupati
+Venkat Sai Gunda
+Vineel Reddy Salla
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Acknowledgments
+We would like to acknowledge the support and guidance provided by our mentors and advisors throughout this project.

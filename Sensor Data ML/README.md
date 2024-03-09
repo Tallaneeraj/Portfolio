@@ -23,7 +23,8 @@ Neeraj Talla
 Varshith Dupati
 Venkat Sai Gunda
 Vineel Reddy Salla
-License
+
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgments

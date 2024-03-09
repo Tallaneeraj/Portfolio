@@ -27,6 +27,10 @@ As I progress on my data science journey, I am dedicated to continuously learnin
 ### 3. DinoFunWorld Operations Analysis
 - [Project 3: DinoFunWorld Data Analysis and Visualization](https://github.com/Tallaneeraj/Data-Science-Portfolio/tree/main/Dino%20World%20Data%20Analysis)
   - This repository contains a data analysis of operations at DinoFunWorld Amusement Park, providing insights into visitor patterns, attraction popularity, and attendance dynamics. Utilizing a provided SQLite database, the analysis highlights key aspects of park operations to aid in strategic decision-making.
+ 
+### 4. Sensor Network Modeling & Anomaly Detection A Heuristic-based assessment using Machine Learning.
+- [Project 4: Sensor Network Modeling & Anomaly Detection](https://github.com/Tallaneeraj/Data-Science-Portfolio/tree/main/Sensor%20Data%20ML)
+  - This repository contains code for sensor data preprocessing, anomaly detection, and predictive modeling using advanced machine-learning techniques.
 
 ## Getting Started
 

@@ -19,10 +19,10 @@ visualizations/: Includes visualizations generated during data analysis and mode
 
 
 ### Contributors
-Neeraj Talla
-Varshith Dupati
-Venkat Sai Gunda
-Vineel Reddy Salla
+- Neeraj Talla
+- Varshith Dupati
+- Venkat Sai Gunda
+- Vineel Reddy Salla
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.

@@ -21,7 +21,7 @@ My career goal is to leverage my skills and knowledge to contribute to innovativ
 
 ### Learning Journey
 
-As I progress on my data science journey, I am dedicated to continuously learning and adapting to new technologies. The projects in this portfolio reflect not only my current skill set but also my commitment to exploring and mastering emerging tools and techniques in the field.
+As I progress, I am dedicated to continuously learning and adapting to new technologies. The projects in this portfolio reflect not only my current skill set but also my commitment to exploring and mastering emerging tools and techniques in the field.
 
 ## Project Folders
 

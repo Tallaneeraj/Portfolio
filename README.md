@@ -13,11 +13,11 @@ I am enthusiastic about leveraging data to derive meaningful insights and make i
 
 My career goal is to leverage my skills and knowledge to contribute to innovative and impactful projects in the tech industry. I am eager to work in an environment that challenges me to grow and learn continuously. Specifically, I am looking for opportunities where I can:
 
-Utilize data to drive business decisions and insights.
-Develop and deploy machine learning models to solve real-world problems.
-Design and maintain scalable and efficient data pipelines.
-Implement DevOps practices to streamline software development and deployment processes.
-Work with cloud technologies to build and manage robust, secure, and scalable applications.
+-Utilize data to drive business decisions and insights.
+-Develop and deploy machine learning models to solve real-world problems.
+-Design and maintain scalable and efficient data pipelines.
+-Implement DevOps practices to streamline software development and deployment processes.
+-Work with cloud technologies to build and manage robust, secure, and scalable applications.
 
 ### Learning Journey
 

@@ -1,14 +1,23 @@
-# Data Science Portfolio
+# Professional Portfolio
 
-Welcome to my Data Science Portfolio! This repository serves as a centralized hub for various projects covering a range of topics in the field of data science. Each folder corresponds to a specific area of focus, with individual projects and accompanying README files for more detailed information.
+Welcome to my Professional Portfolio! This repository serves as a centralized hub for various projects covering a range of topics in the field of data. Each folder corresponds to a specific area of focus, with individual projects and accompanying README files for more detailed information.
 
 ## About Me
 
-I am passionate about leveraging data to derive meaningful insights and make informed decisions. My journey towards a career in data science is driven by a curiosity for understanding complex patterns and solving real-world problems.
+Hello! I'm Neeraj Talla, a passionate and motivated individual with a keen interest in Data Science, Data Analysis, Data Engineering, Machine Learning, DevOps, and Cloud Computing. I am currently pursuing a Master's in Computer Science at Arizona State University, where I have developed a strong foundation in these fields through coursework, projects, and hands-on experience.
+
+I am enthusiastic about leveraging data to derive meaningful insights and make informed decisions. My journey toward a career in the data domain is driven by a deep curiosity for understanding complex patterns and solving real-world problems.
+
 
 ### Career Aspirations
 
-My ultimate goal is to build a fulfilling career in data science, where I can apply my analytical skills to contribute meaningfully to diverse industries. I am enthusiastic about working on projects that require a blend of statistical analysis, machine learning, and effective data visualization.
+My career goal is to leverage my skills and knowledge to contribute to innovative and impactful projects in the tech industry. I am eager to work in an environment that challenges me to grow and learn continuously. Specifically, I am looking for opportunities where I can:
+
+Utilize data to drive business decisions and insights.
+Develop and deploy machine learning models to solve real-world problems.
+Design and maintain scalable and efficient data pipelines.
+Implement DevOps practices to streamline software development and deployment processes.
+Work with cloud technologies to build and manage robust, secure, and scalable applications.
 
 ### Learning Journey
 

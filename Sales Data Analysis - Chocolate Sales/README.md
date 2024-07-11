@@ -1,5 +1,5 @@
 
-# Sales Data Analysis - Chocolate Sales
+# Sales Data Analysis - Chocolate Sales - using Excel
 
 ## Overview
 

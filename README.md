@@ -41,6 +41,11 @@ As I progress, I am dedicated to continuously learning and adapting to new techn
 - [Project 4: Sensor Network Modeling & Anomaly Detection](https://github.com/Tallaneeraj/Data-Science-Portfolio/tree/main/Sensor%20Data%20ML)
   - This repository contains code for sensor data preprocessing, anomaly detection, and predictive modeling using advanced machine-learning techniques.
 
+### 5. Sales Analysis Project using Power BI
+- [Project 5: Sales Analysis Project using Power BI](https://github.com/Tallaneeraj/Portfolio/tree/main/Sales%20Data%20Analysis%20using%20Power%20BI)
+  - **Tags:** Power BI, Data Visualization, Data Analysis
+  - This repository contains the power BI dashboard of the data analysis of the sales data. Data sourced from [this website](https://codebasics.io/) for demonstration purposes.
+
 ## Getting Started
 
 To explore a specific project, navigate to the corresponding folder and refer to the README file for detailed information, instructions, and insights gained from the project.

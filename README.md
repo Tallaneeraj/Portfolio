@@ -46,6 +46,12 @@ As I progress, I am dedicated to continuously learning and adapting to new techn
   - **Tags:** Power BI, Data Visualization, Data Analysis
   - This repository contains the power BI dashboard of the data analysis of the sales data. Data sourced from [this website](https://codebasics.io/) for demonstration purposes.
 
+### 6. Hotel booking data Analysis Project using Power BI
+- [Project 5:  Hotel booking data Analysis Project using Power BI](https://github.com/Tallaneeraj/Portfolio/tree/main/Hotel%20Data%20Analysis%20using%20Power%20BI)
+  - **Tags:** Power BI, Data Visualization, Data Analysis
+  - This repository contains the power BI dashboard of the data analysis of the sales data. Data sourced from [this website](https://codebasics.io/) for demonstration purposes.
+ 
+  - 
 ## Getting Started
 
 To explore a specific project, navigate to the corresponding folder and refer to the README file for detailed information, instructions, and insights gained from the project.

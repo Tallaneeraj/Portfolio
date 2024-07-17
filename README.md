@@ -51,7 +51,6 @@ As I progress, I am dedicated to continuously learning and adapting to new techn
   - **Tags:** Power BI, Data Visualization, Data Analysis
   - This repository contains the power BI dashboard of the data analysis of the sales data. Data sourced from [this website](https://codebasics.io/) for demonstration purposes.
  
-  - 
 ## Getting Started
 
 To explore a specific project, navigate to the corresponding folder and refer to the README file for detailed information, instructions, and insights gained from the project.

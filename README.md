@@ -53,6 +53,7 @@ As I progress, I am dedicated to continuously learning and adapting to new techn
  
 ### 7. Energy Analysis Project
 - [Project 7:  Energy Analysis Project](https://github.com/Tallaneeraj/Portfolio/tree/main/Analysis%20and%20Visualization%20of%20Global%20Renewable%20Energy%20Trends)
+     - **Tags:** Power BI, Python, Data Visualization, Data Analysis,
      - This project provides a comprehensive analysis of global renewable energy trends, utilizing data from 'Our World in Data'. The study includes intricate visualizations such as choropleth maps, bar charts, line charts, and stacked bar charts to depict the increasing significance of renewable energy in the global energy landscape. Detailed findings highlight regional differences and key trends in energy consumption and production over the last 20 years.
      - A Power BI dashboard that dives into singular energy consumption and generation of a country.  
 

@@ -31,6 +31,7 @@ As I progress, I am dedicated to continuously learning and adapting to new techn
 
 ### 2. Sales Analysis Project
 - [Project 2: Chocolate Sales Analysis](https://github.com/Tallaneeraj/Data-Science-Portfolio/tree/main/Sales%20Data%20Analysis%20-%20Chocolate%20Sales)
+  - **Tags:** Excel, Statistics, Data Visualization, Data Analysis
   - Comprehensive data analysis of chocolate sales, exploring various aspects such as quick statistics, exploratory data analysis, sales by country, top products, anomaly detection, and more. Data sourced from [this YouTube video](https://youtu.be/v2oNWja7M2E?feature=shared) for demonstration purposes.
 
 ### 3. DinoFunWorld Operations Analysis

@@ -18,6 +18,7 @@ My career goal is to leverage my skills and knowledge to contribute to innovativ
 - Design and maintain scalable and efficient data pipelines.
 - Implement DevOps practices to streamline software development and deployment processes.
 - Work with cloud technologies to build and manage robust, secure, and scalable applications.
+- Analyse data and build algorithms to build business insights.
 
 ### Learning Journey
 

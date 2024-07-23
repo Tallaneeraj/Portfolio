@@ -4,12 +4,16 @@ This GitHub repository contains the source code and resources for the project "S
 ### Introduction
 Sensor networks play a crucial role in various industries, providing valuable data for informed decision-making. However, challenges such as data integrity, missing values, and outliers complicate the analysis of sensor data. This project employs advanced machine learning methods to maximize the utility of sensor data, improving decision-making processes.
 
+### Dataset
+The dataset we used is derived from a deployment of 58 sensor nodes, which have been collecting data every 30 seconds since February 28th, 2004. This extensive dataset, comprising over 2.3 million data points.
+
 ### Key Features
 Comprehensive data preprocessing to address missing values, outliers, and data inconsistencies.
 Anomaly detection using Isolation Forest algorithm and heuristic-based assessment.
 Predictive modeling with Long Short-Term Memory (LSTM) networks for future sensor readings.
-Evaluation metrics including precision, recall, and F1-score for model performance assessment.
+Evaluation metrics include precision, recall, and F1-score for model performance assessment.
 Visualization of anomaly detection results and predictive modeling outcomes.
+
 
 ### Project Structure
 code/: Contains source code for data preprocessing, anomaly detection, and predictive modeling.

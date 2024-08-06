@@ -39,7 +39,7 @@ As I progress, I am dedicated to continuously learning and adapting to new techn
 - [Project 3: DinoFunWorld Data Analysis and Visualization](https://github.com/Tallaneeraj/Data-Science-Portfolio/tree/main/Dino%20World%20Data%20Analysis)
   - This repository contains a data analysis of operations at DinoFunWorld Amusement Park, providing insights into visitor patterns, attraction popularity, and attendance dynamics. Utilizing a provided SQLite database, the analysis highlights key aspects of park operations to aid in strategic decision-making.
  
-### 4. Sensor Network Modeling & Anomaly Detection A Heuristic-based assessment using Machine Learning.
+### 4. Sensor Network Modeling & Anomaly Detection - A Heuristic-based assessment using Machine Learning.
 - [Project 4: Sensor Network Modeling & Anomaly Detection](https://github.com/Tallaneeraj/Data-Science-Portfolio/tree/main/Sensor%20Data%20ML)
   - This repository contains code for sensor data preprocessing, anomaly detection, and predictive modeling using advanced machine-learning techniques.
 
@@ -55,9 +55,14 @@ As I progress, I am dedicated to continuously learning and adapting to new techn
  
 ### 7. Energy Analysis Project
 - [Project 7:  Energy Analysis Project](https://github.com/Tallaneeraj/Portfolio/tree/main/Analysis%20and%20Visualization%20of%20Global%20Renewable%20Energy%20Trends)
-     - **Tags:** Power BI, Python, Data Visualization, Data Analysis,
+     - **Tags:** Power BI, Python, Data Visualization, Data Analysis
      - This project provides a comprehensive analysis of global renewable energy trends, utilizing data from 'Our World in Data'. The study includes intricate visualizations such as choropleth maps, bar charts, line charts, and stacked bar charts to depict the increasing significance of renewable energy in the global energy landscape. Detailed findings highlight regional differences and key trends in energy consumption and production over the last 20 years.
-     - A Power BI dashboard that dives into singular energy consumption and generation of a country.  
+     - A Power BI dashboard that dives into singular energy consumption and generation of a country.
+
+### 8. Real-Time Data Processing Pipeline
+- [Project 8: Real-Time Data Processing Pipeline](https://github.com/Tallaneeraj/Portfolio/tree/main/Real-Time%20Data%20Processing%20Pipeline)
+  - **Tags:** Apache Kafka, Apache Spark, Cassandra, Docker, Python
+  - This project demonstrates a real-time data processing pipeline using Apache Kafka, Apache Spark, and Apache Cassandra. The pipeline fetches data from an external API, processes it, and stores it in a Cassandra database.
 
  
 ## Getting Started

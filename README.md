@@ -64,6 +64,10 @@ As I progress, I am dedicated to continuously learning and adapting to new techn
   - **Tags:** Apache Kafka, Apache Spark, Cassandra, Docker, Python
   - This project demonstrates a real-time data processing pipeline using Apache Kafka, Apache Spark, and Apache Cassandra. The pipeline fetches data from an external API, processes it, and stores it in a Cassandra database.
 
+### 9. AWS static website hosting using CI/CD
+- [Project 9: AWS static website hosting using CI/CD] (https://github.com/Tallaneeraj/Portfolio/tree/main/AWS%20static%20website%20hosting%20using%20CI%20CD)
+  - **Tags:** HTML, CSS, JS, AWS(S3, dynamoDB, CloudFront, lambda, IAM), Github Actions
+  - This project is a fully functional web application designed to demonstrate the hosting of a static website with AWS cloud services using CI/CD pipelines.
  
 ## Getting Started
 

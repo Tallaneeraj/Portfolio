@@ -1,5 +1,5 @@
 
-# AWS Cloud-based Web Application
+# AWS static website hosting using CI/CD
 
 ## Overview
 This project is a fully functional web application designed to demonstrate the integration of front-end technologies with AWS cloud services. The application showcases the use of HTML, CSS, and JavaScript for the frontend, and leverages several AWS services such as S3, CloudFront, DynamoDB, and Lambda for backend operations. GitHub Actions is utilized for continuous integration and continuous deployment (CI/CD).

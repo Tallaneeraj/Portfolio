@@ -36,6 +36,26 @@ This repository contains a comprehensive analysis and visualization of global re
 - **Stacked Bar Charts**
   - Share of different energy sources in the global energy mix.
 
+
+## Model Comparison: LSTM vs ARIMA
+- To predict and compare energy consumption and electricity generation trends, both LSTM and ARIMA models were used. Here are the key findings:
+
+- **Energy Consumption Predictions:**
+
+   - ARIMA showed better stability and lower RMSE values compared to LSTM, particularly in countries like the United Kingdom, France, and Italy, where the data followed a predictable pattern.
+
+   - LSTM struggled more with higher RMSE values, especially for the United States, which may have had complex, non-linear patterns that the LSTM model couldn't effectively capture without more extensive tuning and a larger dataset.
+
+   - Key Insight: For stable, linear energy consumption patterns, ARIMA tends to be more reliable, whereas LSTM might need more data and tuning to capture complex trends.
+
+- **Electricity Generation Predictions:**
+
+  - ARIMA outperformed LSTM in terms of consistency and lower RMSE for most countries, especially where electricity generation data was less volatile (e.g., Germany, Italy, Spain).
+
+  - The United States showed significant errors in both models due to its highly variable and complex electricity generation patterns.
+
+  - Key Insight: ARIMA appears more suitable for linear trends in electricity generation, while LSTM might be more appropriate for non-linear, irregular datasets with more data points.
+
 ## How to Use
 1. Clone the repository.
 2. Open the Power BI file `Energy Data.pbix` to explore the detailed analysis.

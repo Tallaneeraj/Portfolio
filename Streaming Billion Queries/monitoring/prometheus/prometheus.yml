@@ -1,0 +1,27 @@
+global:
+  scrape_interval: 15s
+  scrape_timeout: 10s
+  evaluation_interval: 15s
+
+rule_files: ["rules/*.yml"]
+
+alerting:
+  alertmanagers:
+    - timeout: "10s"
+      static_configs:
+        - targets: ["alertmanager:59093"]
+
+scrape_configs:
+  - job_name: "kafka-controllers"
+    scrape_interval: 10s
+    scrape_timeout: 10s
+    static_configs:
+      - targets: ['kafka-node-1:19092', 'kafka-node-2:19092', 'kafka-node-3:19092']
+
+  - job_name: "spark"
+    static_configs:
+      - targets: ['spark-master:8080', 'spark-worker:8081']
+
+  - job_name: "redpanda-console"
+    static_configs:
+      - targets: ['console:8080']
